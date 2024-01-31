@@ -19,4 +19,5 @@ Lab 7: LCD device driver, decimal fixed-point output, local variables, written i
 
 Lab 8: Real-time position monitor, ADC, interrupts, LCD, mixture of assembly and C - • Created a data acquisition system capable of reading physical values and converting to digital in order to make a digital ruler.
 
-Lab 9: Distributed DAS, serial port interrupts, FIFO queue, mixture of assembly and C - • Implemented FIFOs and programmed the onboard Universal Asynchronous Receiver Transmitter System (UART) to transfer data from one Microcontroller to another.
+Lab 9: Designed, Tested, and debbugged a large C program that was the 80's style game Space Invaders. Interrupts were used to control the I/O that had a profund impact on how the user interacts with the game. Some interrupts but not all that were included were edge triggered off a button pressed; output sounds with the DAC using a fixed-frequency periodic interrupts; game also utlizied moving sprite with a periodic interrupt/ 
+
